@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Mayuri 👋
 
-<!--
-**mayuriagar/mayuriagar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Computer Engineering student at the University of Waterloo**, passionate about **full-stack development, machine learning, and embedded systems**. I enjoy building projects that solve real-world problems and exploring new technologies.
 
-Here are some ideas to get you started:
+- Build **full-stack web applications** using **React, Next.js, Vue.js, Flask, Python, JavaScript, HTML, CSS**  
+- Develop **AI-powered, accessibility-focused, and interactive systems**, including **Podcastify** and **Braillink**  
+- Work on **embedded systems and hardware-software integration** with STM32 microcontrollers
+- Conduct **data analysis and research** using **R, SQL, and Python**  
+- Gain real-world experience through internships and projects, e.g., **Electrium Mobility frontend/database development** and **Moovez SEO & Web development** 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 Let’s Connect
+I’m always open to new ideas, projects, and collaborations.  
+📫 Reach me at **m36agarw@uwaterloo.ca**  
