@@ -8,6 +8,5 @@ I’m a **Computer Engineering student at the University of Waterloo**, passiona
 - Conduct **data analysis and research** using **R, SQL, and Python**  
 - Gain real-world experience through internships and projects, e.g., **Electrium Mobility frontend/database development** and **Moovez SEO & Web development** 
 
-🤝 Let’s Connect
-I’m always open to new ideas, projects, and collaborations.  
+🤝 Let’s Connect, I’m always open to new ideas, projects, and collaborations.  
 📫 Reach me at **m36agarw@uwaterloo.ca**  
