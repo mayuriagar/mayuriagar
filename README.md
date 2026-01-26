@@ -1,6 +1,6 @@
 ## Hi there, I'm Mayuri 👋
 
-I’m a **Computer Engineering student at the University of Waterloo**, passionate about **full-stack development, machine learning, and embedded systems**. I enjoy building projects that solve real-world problems and exploring new technologies.
+I’m a **Computer Engineering student at the University of Waterloo**, passionate about **full-stack development, artificial intelligence, and embedded systems**. I enjoy building projects that solve real-world problems and exploring new technologies.
 
 - Build **full-stack web applications** using **React, Next.js, Vue.js, Flask, Python, JavaScript, HTML, CSS**  
 - Develop **AI-powered, accessibility-focused, and interactive systems**, including **Podcastify** and **Braillink**  
